@@ -4,3 +4,7 @@ h1 {
   color: DarkRed;
   text-align: center;
 }
+
+body {
+  background-color: tan;
+}
