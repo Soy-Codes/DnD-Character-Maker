@@ -12,13 +12,21 @@ body {
   background-color: #111111;
 }
 
-button {
+.center-wrapper {
   display: flex;
-  padding: 18px 54px;
+  justify-content: center;
+  align-items: center;
+  
+  width: 100%;
+  height: 400px;
+  background-color: #f0f0f0;
+}
+
+button {
+  padding: 12px 54px;
   font-family: 'Lora';
   font-size: 14px;
   line-height: 1.5;
   color: #222222;
   background-color: #f7f2e8;
-  justify-content: center;
 }
