@@ -14,6 +14,7 @@ body {
 
 button {
   display: flex;
+  padding: 18px 54px;
   font-family: 'Lora';
   font-size: 14px;
   line-height: 1.5;
