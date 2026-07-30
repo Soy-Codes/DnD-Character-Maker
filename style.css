@@ -13,10 +13,11 @@ body {
 }
 
 button {
+  display: flex;
   font-family: 'Lora';
   font-size: 14px;
   line-height: 1.5;
   color: #222222;
   background-color: #f7f2e8;
-  align-items: center;
+  justify-content: center;
 }
