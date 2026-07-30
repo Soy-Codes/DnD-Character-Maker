@@ -1,3 +1,6 @@
+@import url('https://jsdelivr.net');
+@import url('https://googleapis.com');
+
 h1 {
   font-size: 64px;
   font-family: 'Mrs Eaves';
@@ -7,4 +10,12 @@ h1 {
 
 body {
   background-color: #111111;
+}
+
+button {
+  font-family: 'Lora';
+  font-size: 14px;
+  line-height: 1.5;
+  color: #222222;
+  background-color: #f7f2e8;
 }
